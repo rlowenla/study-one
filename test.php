@@ -1,4 +1,5 @@
 <?php
 	echo 'copy';
 	echo 'welcome';
-	echo "fsdf";
+	echo "fsdf
+	测试
